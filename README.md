@@ -1,10 +1,15 @@
-# Stacks and Queue Data Structures
+# Data Structures
 
-## About: 
+* Stacks / Queue
+* Heaps
+
+
+## Stacks / Queue: 
 
 * creating a new Node
 * creating Stack / Queue constructor
 * adding push and pop methods 
+
 
 
 ## Resource
