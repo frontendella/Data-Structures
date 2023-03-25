@@ -35,7 +35,7 @@ class MaxBinaryHeap {
         const element = this.values[0]
         while (true) {
             let leftChildIdx = 2 * idx + 1;
-            let rightChildIdx = 2 * idx + 1;
+            let rightChildIdx = 2 * idx + 2;
             let leftChild, rightChild;
             let swap = null;
 
