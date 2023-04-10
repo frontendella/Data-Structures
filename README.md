@@ -10,6 +10,10 @@
 * creating Stack / Queue constructor
 * adding push and pop methods 
 
+## Linked Lists: 
+
+* Singly Linked Lists
+* Doubly Linked Lists
 
 
 ## Resource
