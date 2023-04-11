@@ -2,18 +2,24 @@
 
 * Stacks / Queue
 * Heaps
+* Linked Lists: 
+    - Singly Linked Lists
+    - Doubly Linked Lists
 
-
-## Stacks / Queue: 
+## Actions
 
 * creating a new Node
-* creating Stack / Queue constructor
-* adding push and pop methods 
+* creating DS constructor
+* push
+* pop
+* shift
+* unshift
+* get
+* set
+* insert
+* remove
+* reverse
 
-## Linked Lists: 
-
-* Singly Linked Lists
-* Doubly Linked Lists
 
 
 ## Resource
