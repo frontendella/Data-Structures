@@ -4,7 +4,7 @@
 * Heaps
 * Linked Lists: 
     - Singly Linked Lists
-    - Doubly Linked Lists
+    - Doubly Linked Lists   
 
 ## Actions
 
