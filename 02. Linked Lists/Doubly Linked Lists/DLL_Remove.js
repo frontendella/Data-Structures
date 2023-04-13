@@ -109,6 +109,7 @@ class DoublyLinkedList {
         this.length++;
         return true;
     }
+
     remove(node) {
         if (node === this.head) {
           this.head = node.next;
@@ -124,8 +125,6 @@ class DoublyLinkedList {
         }
         node = null;
       }
-    }
-
 }
 
 var list = new DoublyLinkedList()
