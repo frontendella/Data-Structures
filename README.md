@@ -1,10 +1,14 @@
 # Data Structures
 
+
 * Stacks / Queue
-* Heaps
 * Linked Lists: 
     - Singly Linked Lists
     - Doubly Linked Lists   
+* Heaps
+* BST
+* Hash Table
+
 
 ## Actions
 
