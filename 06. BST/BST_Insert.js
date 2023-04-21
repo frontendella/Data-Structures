@@ -1,3 +1,4 @@
+
 class Node {
     constructor(value){
         this.value = value;
@@ -50,6 +51,8 @@ tree.insert(2)
 tree.insert(16)
 tree.insert(7)
 
+
+// optimized to have a time complexity of O(log n) and a space complexity of O(1), which are the best possible time and space complexities for this problem.
 
 
 
